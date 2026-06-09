@@ -1,0 +1,14 @@
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\bin\Debug\net8.0\HealthCareDecisionApp.exe
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\bin\Debug\net8.0\HealthCareDecisionApp.deps.json
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\bin\Debug\net8.0\HealthCareDecisionApp.runtimeconfig.json
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\bin\Debug\net8.0\HealthCareDecisionApp.dll
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\bin\Debug\net8.0\HealthCareDecisionApp.pdb
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\HealthCareDecisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\HealthCareDecisionApp.AssemblyInfoInputs.cache
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\HealthCareDecisionApp.AssemblyInfo.cs
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\HealthCareDecisionApp.csproj.CoreCompileInputs.cache
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\HealthCareDecisionApp.dll
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\refint\HealthCareDecisionApp.dll
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\HealthCareDecisionApp.pdb
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\HealthCareDecisionApp.genruntimeconfig.cache
+C:\Vishwas\HealthCareDecisionApp\HealthCareDecisionApp\obj\Debug\net8.0\ref\HealthCareDecisionApp.dll
