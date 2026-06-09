@@ -1,0 +1,15 @@
+C:\Vishwas\PatientConsole\PatientConsole\bin\Debug\net8.0\PatientConsole.exe
+C:\Vishwas\PatientConsole\PatientConsole\bin\Debug\net8.0\PatientConsole.deps.json
+C:\Vishwas\PatientConsole\PatientConsole\bin\Debug\net8.0\PatientConsole.runtimeconfig.json
+C:\Vishwas\PatientConsole\PatientConsole\bin\Debug\net8.0\PatientConsole.dll
+C:\Vishwas\PatientConsole\PatientConsole\bin\Debug\net8.0\PatientConsole.pdb
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.AssemblyInfoInputs.cache
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.AssemblyInfo.cs
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.csproj.CoreCompileInputs.cache
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.dll
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\refint\PatientConsole.dll
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.pdb
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.genruntimeconfig.cache
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\ref\PatientConsole.dll
+C:\Vishwas\PatientConsole\PatientConsole\obj\Debug\net8.0\PatientConsole.csproj.AssemblyReference.cache
